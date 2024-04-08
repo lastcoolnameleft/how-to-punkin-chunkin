@@ -28,22 +28,14 @@ _header: ![](img/microsoft-azure-logo-2.png)
 
 # Me
 
-  - Partner Solution Architect @ Microsoft (ex-Yahoo!, ex-Nortel)
-  - Trebuchet expert for Dude Perfect episode 
-  - Organizer of "SlingFest"
-  - Competed in multiple Punkin Chunkin's
-
+- Partner Solution Architect @ Microsoft (ex-Yahoo!, ex-Nortel)
+- Trebuchet expert for Dude Perfect episode 
+- Organizer of "SlingFest"
+- Competed in multiple Punkin Chunkin's
 
 ---
 
 ![bg  w:1000](img/trebuchet-meme.png)
-
----
-
-# History
-
-- Punkin Chunkin
-- Slingfest
 
 ---
 
@@ -52,7 +44,7 @@ _header: ![](img/microsoft-azure-logo-2.png)
 - Annual event from 1985 to 2013 in Delaware
 - Organized by "World Championship Punkin Chunkin Association (WCPCA)"
 - Cancelled multiple times due to injuries, legal and logistics issues
-- Restarted in 2013 in Vinita, Oklahoma
+- Restarted in 2023 in Vinita, Oklahoma
 
 ---
 
@@ -64,16 +56,134 @@ _header: ![](img/microsoft-azure-logo-2.png)
 - Last event had 1000+ attendees
 - Local news coverage
 
+[Slingfest in Plano](https://www.youtube.com/watch?v=kacsOd8f__Q)
+
 ---
 
-# History - Requirements
+# Punkin Chunkin' Categories
 
-- Rely solely on mechanical means.  Includes:
-  - Slingshots
-  - Catapults
-  - Centrifugals
-  - Trebuchets
-  - Air cannons
+- Air cannon
+- Catapult
+- Torsion
+- Centrifugal
+- Trebuchet
+
+---
+
+# Air Cannon
+
+If you ever built a potato gun or at least had the opportunity to shoot one, Air Cannons at the annual Punkin Chunkin are the big daddy of potato guns. Using compressed air, nothing flamable, these machines shoot pumpkins over 4,000 feet
+
+![bg right:50% w:600](img/air-cannon.png)
+
+[University of Delaware Video example](https://www.youtube.com/watch?v=GnGkNmgx4ik)
+
+---
+
+# Catapult
+
+Similar to a Trebuchet in terms of an arm swinging a pumpkin around attached to a sling, with the exception that these machines are normally powered by springs or rubber bands
+
+![bg right:50% w:600](img/catapult.png)
+
+---
+
+# Torsion
+
+A Torsion machine is any device that uses twisted rope as its primary source of power. It relies on a rope that works by torsion or twisting. The rope stores mechanical energy when it is twisted. The amount of force it releases is proportional to the amount it is twisted.
+
+![bg right:50% w:600](img/onager.png)
+
+---
+
+# Centrifugal
+
+These machines build up centrifugal force in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
+
+![bg right:50% w:600 h:700](img/centrifugal.png)
+
+[Bad to the Bone video example](https://www.youtube.com/watch?app=desktop&v=CoN7JMa0qyc)
+[Bad to the Bone video example 2](https://www.youtube.com/watch?app=desktop&v=MTWsmZta6AE)
+
+---
+
+# Trebuchet
+
+Powered exclusively by gravity, these machines use a counterweight attached to an arm to swing the pumpkin attached to a sling around and release at an optimal pin angle.
+
+![bg right:50% w:600](img/trebuchet.png)
+
+[Hurl a piano example](https://www.youtube.com/watch?v=hZxCEkGk6HI)
+
+---
+
+# Trebuchet types
+
+- Fixed counterweight
+- Hinged counterweight
+- Floating Arm
+- MURLIN
+- Human powered
+- And many more
+
+---
+
+# Fixed Counterweight Trebuchet
+
+![bg right:50% w:600](img/fixed-counterweight-trebuchet.png)
+
+Credit: [D&T Online](https://wiki.dtonline.org/index.php/Trebuchet)
+
+---
+
+# Hinged Counterweight Trebuchet (traditional)
+
+![bg right:50% w:600 h:700](img/hinged-counterweight-trebuchet.png)
+
+Credit: [D&T Online](https://www.real-world-physics-problems.com/trebuchet-physics.html)
+
+---
+
+# Floating Arm Trebuchet
+
+![bg right:50% w:600 h:700](img/floating-arm-trebuchet.png)
+
+[Example - Slingfest](https://photos.app.goo.gl/f9g5QM2VqQ5A7ZXR7)
+[Example - Slingfest](https://photos.app.goo.gl/zzQ5DJsekhk6tquq6)
+
+Credit: [LanceMakes @ Instructrables](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
+
+---
+
+# MURLIN
+
+![bg right:50% w:600](img/murlin.png)
+
+[Example - Slingfest](https://photos.app.goo.gl/AvXtbn28Q5Wgi4Gs9)
+[Example - Test shot](https://photos.app.goo.gl/56E4Ru8NKCEAUznK7)
+
+---
+
+# Human Powered
+
+![bg right:50% w:600](img/human-powered.png)
+
+Machines can use any kind of stored energy that can be stored by a single person in two minutes.
+
+[Hamster wheel example](https://www.youtube.com/watch?v=7X4v9lFgppA)
+
+---
+
+# Colossal Thunder
+
+- Built by Corey Winesburg + his welding students
+- Won Punkin Chunkin student division + Adult Trebuchet record holder (3377 feet, 2019)
+- Split counterweight
+
+![bg right:50% w:600](img/colossal-thunder.png)
+
+[Example](https://www.youtube.com/watch?v=5WxPoU7sf9E)
+[OK TV](https://www.youtube.com/watch?v=7uc2JgNQN0o)
 
 ---
 
@@ -82,12 +192,16 @@ _header: ![](img/microsoft-azure-logo-2.png)
 - Guinness world record: pneumatic cannon at 5,500+ feet
 - Pie-ing a pumpkin (i.e. "pumpkin pie in the sky")
 - ChatGPT: "For example, if a pumpkin weighing 5 pounds were to be thrown at someone at a velocity of 10 meters per second, it could potentially cause injury upon impact."
+
 ---
 
 # Safety
 
-- "Cone of Danger"
+![bg right:50% w:600](img/james-death-ball.png)
 
+[Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
+
+- "Cone of Danger"
 
 ---
 
@@ -98,12 +212,32 @@ _header: ![](img/microsoft-azure-logo-2.png)
 - Drop distance
 - Release Angle
 - And so much more...
+
+---
+
+# How/where do I get started?
+
+* Pick a design
+  - Recommendation: Hinged counterweight
+* Start small
+  - Recommendation: Baseball
+* Experiment + Learn
+  - Recommendation: Outside
+* Go bigger
+  - Recommendation: Safety
+  
+---
+
+# FAQ
+
+- How big should I make my arm/sling/counterweight/etc.?
+  - [Virtual Trebuchet](https://virtualtrebuchet.com/)
+
 ---
 
 ![bg w:600](img/range-formula.png)
 
 ---
-
 
 # Q&A
 
