@@ -5,7 +5,7 @@ theme: microsoft
 
 ---
 <!--
-_class: intro-blue
+_class: intro-orange
 _header: ![](img/microsoft-azure-logo-2.png)
 -->
 
@@ -19,9 +19,10 @@ _header: ![](img/microsoft-azure-logo-2.png)
 # Agenda
 
 - What is "Punkin Chunkin"?
-- History
+- Chunker styles
 - Physics
 - Safety
+- Get started!
 - Q&A
 
 ---
@@ -59,6 +60,10 @@ _header: ![](img/microsoft-azure-logo-2.png)
 [Slingfest in Plano](https://www.youtube.com/watch?v=kacsOd8f__Q)
 
 ---
+
+<!--
+_class: intro-orange
+-->
 
 # Punkin Chunkin' Categories
 
@@ -116,6 +121,10 @@ Powered exclusively by gravity, these machines use a counterweight attached to a
 [Hurl a piano example](https://www.youtube.com/watch?v=hZxCEkGk6HI)
 
 ---
+
+<!--
+_class: intro-orange
+-->
 
 # Trebuchet types
 
@@ -176,7 +185,7 @@ Machines can use any kind of stored energy that can be stored by a single person
 
 # Colossal Thunder
 
-- Built by Corey Winesburg + his welding students
+- Built by Corey Winesburg + his welding students in OK
 - Won Punkin Chunkin student division + Adult Trebuchet record holder (3377 feet, 2019)
 - Split counterweight
 
@@ -191,7 +200,8 @@ Machines can use any kind of stored energy that can be stored by a single person
 
 - Guinness world record: pneumatic cannon at 5,500+ feet
 - Pie-ing a pumpkin (i.e. "pumpkin pie in the sky")
-- ChatGPT: "For example, if a pumpkin weighing 5 pounds were to be thrown at someone at a velocity of 10 meters per second, it could potentially cause injury upon impact."
+
+![bg right:50% w:600](img/range-formula.png)
 
 ---
 
@@ -199,9 +209,10 @@ Machines can use any kind of stored energy that can be stored by a single person
 
 ![bg right:50% w:600](img/james-death-ball.png)
 
-[Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
-
 - "Cone of Danger"
+- "If a pumpkin weighing 5 pounds were to be thrown at someone at a velocity of 10 meters per second, it could potentially cause injury upon impact." (Credit ChatGPT)
+
+[Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
 
 ---
 
@@ -218,11 +229,11 @@ Machines can use any kind of stored energy that can be stored by a single person
 # How/where do I get started?
 
 * Pick a design
-  - Recommendation: Hinged counterweight
+  - Recommendation: Hinged counterweight (10 lbs)
 * Start small
-  - Recommendation: Baseball
+  - Recommendation: Baseball (5 oz)
 * Experiment + Learn
-  - Recommendation: Outside
+  - Recommendation: Outside (200 feet)
 * Go bigger
   - Recommendation: Safety
   
@@ -232,10 +243,6 @@ Machines can use any kind of stored energy that can be stored by a single person
 
 - How big should I make my arm/sling/counterweight/etc.?
   - [Virtual Trebuchet](https://virtualtrebuchet.com/)
-
----
-
-![bg w:600](img/range-formula.png)
 
 ---
 
