@@ -63,14 +63,15 @@ _header: ![](img/microsoft-azure-logo-2.png)
 
 <!--
 _class: intro-orange
+_footer: NOTE: Listed in order of difficulty
 -->
 
 # Punkin Chunkin' Categories
 
 - Air cannon
-- Catapult
-- Torsion
 - Centrifugal
+- Torsion
+- Catapult
 - Trebuchet
 
 ---
@@ -85,22 +86,6 @@ If you ever built a potato gun or at least had the opportunity to shoot one, Air
 
 ---
 
-# Catapult
-
-Similar to a Trebuchet in terms of an arm swinging a pumpkin around attached to a sling, with the exception that these machines are normally powered by springs or rubber bands
-
-![bg right:50% w:600](img/catapult.png)
-
----
-
-# Torsion
-
-A Torsion machine is any device that uses twisted rope as its primary source of power. It relies on a rope that works by torsion or twisting. The rope stores mechanical energy when it is twisted. The amount of force it releases is proportional to the amount it is twisted.
-
-![bg right:50% w:600](img/onager.png)
-
----
-
 # Centrifugal
 
 These machines build up centrifugal force in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
@@ -112,11 +97,36 @@ These machines build up centrifugal force in an circular motion and have ways to
 
 ---
 
-# Trebuchet
+# Torsion
 
-Powered exclusively by gravity, these machines use a counterweight attached to an arm to swing the pumpkin attached to a sling around and release at an optimal pin angle.
+A Torsion machine is any device that uses twisted rope as its primary source of power. It relies on a rope that works by torsion or twisting. The rope stores mechanical energy when it is twisted. The amount of force it releases is proportional to the amount it is twisted.
+
+![bg right:50% w:600](img/onager.png)
+
+---
+
+# Catapult
+
+Similar to a Trebuchet in terms of an arm swinging a pumpkin around attached to a sling, with the exception that these machines are normally powered by springs or rubber bands
+
+![bg right:50% w:600](img/catapult.png)
+
+---
+
+# Trebuchet - History
+
+French for "overturn".
+
+Earliest ones seen in China ~4th century BC (powered by men on ropes: traction trebuchet).  Counterweight replaced people ~12th century.
 
 ![bg right:50% w:600](img/trebuchet.png)
+
+---
+
+# Trebuchet
+
+Modern trebuchets are powered by gravity, and use a counterweight attached to an arm to swing the ballistic attached to a sling around and release at an optimal angle.
+
 
 [Hurl a piano example](https://www.youtube.com/watch?v=hZxCEkGk6HI)
 
@@ -124,6 +134,7 @@ Powered exclusively by gravity, these machines use a counterweight attached to a
 
 <!--
 _class: intro-orange
+_footer: NOTE: Listed in order of ease
 -->
 
 # Trebuchet types
@@ -228,15 +239,39 @@ Machines can use any kind of stored energy that can be stored by a single person
 
 # How/where do I get started?
 
-* Pick a design
+- Pick a design
   - Recommendation: Hinged counterweight (10 lbs)
-* Start small
+- Start small
   - Recommendation: Baseball (5 oz)
-* Experiment + Learn
+- Experiment + Learn
   - Recommendation: Outside (200 feet)
-* Go bigger
+- Go bigger
   - Recommendation: Safety
-  
+
+---
+
+# Lumber
+
+- Get started with Common boards (e.g. pine) from Home Depot / Lowes
+  - Don't get treated wood (arsenic)
+- Listed in depth and width (e.g. 1x3, 2x4, 1x8, etc.)
+- Board is cut THEN planed (to make straight-ish)
+  - e.g. 2x4 is NOT 2"x4".  Actually about 1.5" x 3.5"
+  - e.g. 1x4 is .75" x 3.5"
+
+---
+
+# Pro Tips
+
+Think in terms of a constructing a vessel and label pieces accordingly
+
+- Foreward = where the ballistic is directed towards
+- Stern / Aft = backside, opposite of foreward
+- Port = When facing forward, on the left
+- Starbord = When facing forward, on the right
+
+![bg right:50% w:600](img/Port-Starboard.png.webp)
+
 ---
 
 # FAQ
@@ -253,3 +288,4 @@ Machines can use any kind of stored energy that can be stored by a single person
 # Extra Reading
 
 - https://classes.engineering.wustl.edu/2009/fall/ese251/presentations/%28AAM_13%29Trebuchet.pdf
+- https://tuhsphysics.ttsd.k12.or.us/Research/IB09/FarrCars/index.htm#source3
