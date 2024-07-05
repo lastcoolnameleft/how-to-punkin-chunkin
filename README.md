@@ -65,6 +65,7 @@ From Wikipedia:
 * [Catapult](https://en.wikipedia.org/wiki/Catapult) - a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants
 * [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet) - uses a rotating arm with a sling attached to the tip to launch a projectile
 * Ergo: a trebuchet is a type of catapult
+  - e.g. All squares are rectangles, but not all rectangles are squares
 
 ---
 
@@ -196,8 +197,8 @@ _footer: NOTE: Listed in order of difficulty
 
 ![bg right:50% w:600](img/fixed-counterweight-trebuchet.png)
 
-* Weight is attached directly to the arm
-* Weight drops in an arc
+- Weight is attached directly to the arm
+- Weight drops in an arc
 
 <!--
 _footer: Source: [Design and Technology Online - Trebuchet](https://wiki.dtonline.org/index.php/Trebuchet)
@@ -209,9 +210,9 @@ _footer: Source: [Design and Technology Online - Trebuchet](https://wiki.dtonlin
 
 ![bg right:50% w:600 h:700](img/hinged-counterweight-trebuchet.png)
 
-* Weight is atached to a pivot point on the arm
-* This enabled a better "drop" of the weight
-* Frame on wheels helps ensure more force is delivered to ballistic
+- Weight is atached to a pivot point on the arm
+- This enabled a better "drop" of the weight
+- Frame on wheels helps ensure more force is delivered to ballistic
 
 <!--
 _footer: Source: [Real World Physics Problems - Catapult physics](https://www.real-world-physics-problems.com/catapult-physics.html)
@@ -295,8 +296,13 @@ _footer: Source: me
 ![bg right:50% w:600](img/james-death-ball.png)
 
 - "Cone of Danger"
-  - Similar danger zones of a horse
-- "If a pumpkin weighing 5 pounds were to be thrown at someone at a velocity of 10 meters per second, it could potentially cause injury upon impact." (Credit ChatGPT)
+  - e.g. danger zones of a horse
+- Invest in good firing mechanisms
+  - e.g. snap shackles
+- Treat loaded catapult like loaded gun
+- Pre-flight checks
+- AVOID DRY FIRING
+- Checks structrual integrity after each launch
 
 [Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
 
@@ -304,6 +310,23 @@ _footer: Source: me
 _footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
 -->
 
+---
+
+# Pre-Flight Checks
+
+![bg right:50% w:600](img/punkin-chunkin-safety-inspection.jpeg)
+
+Example:
+- Safety on
+- Ballistic loaded properly
+- No twisted or obstructed rope
+- Range is clear
+- Nothing valuable in "cone of danger"
+
+
+<!--
+_footer: Source: me at Punkin Chunkin 2023
+-->
 ---
 
 # Physics
@@ -317,11 +340,13 @@ _footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.c
 
 # Factors in building
 
-- Mass of counterweight
-- Mass of ballistics
-- Drop distance
+- Everything in previous formula
 - Release Angle
-- And so much more...
+- Distance of axle to counterweight and sling
+- Length of sling
+- Materials used
+- Rope will stretch
+- ...
 
 ---
 
@@ -330,7 +355,7 @@ _footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.c
 - Pick a design
   - Recommendation: Hinged counterweight (10 lbs)
 - Start small
-  - Recommendation: Baseball (5 oz)
+  - Recommendation: Baseball (5 oz) or Tennis ball (2 oz)
 - Experiment + Learn
   - Recommendation: Outside (200 feet)
 - Go bigger
@@ -350,9 +375,27 @@ _footer: Source: [Maker Badge](https://lastcoolnameleft.github.io/maker-badges/)
 - Knots
   - Knot 3D app
 - Basic math
-  - Find midpoints
+  - Find midpoints, calculate angles
 - Project planning
   - Kanban board
+
+---
+
+# Tools & Materials
+
+- Saws (hand, circular, compound miter, table)
+- Levels
+- Clamps (SO MANY CLAMPS)
+- Drills (standard, impact)
+- Markers (carpenter pencils)
+- Workbench (Simpson strong-tie)
+- Marine tools (quick release snap shackle, marine rope)
+
+![bg right:50% w:200](img/Aenima.jpg)
+
+<!--
+_footer: Source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
+-->
 
 ---
 
@@ -374,22 +417,6 @@ _footer: Source: [Cyanide & Happiness](https://explosm.net/)
 
 ---
 
-# Tools
-
-- Saws (hand, circular, compound miter, table)
-- Levels
-- Clamps (SO MANY CLAMPS)
-- Drills (standard, impact)
-- Markers (carpenter pencils)
-- Workbench (Simpson strong-tie)
-
-![bg right:50% w:200](img/Aenima.jpg)
-
-<!--
-_footer: Source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
--->
-
----
 
 # Pro Tips
 
@@ -407,10 +434,21 @@ _footer: Source: [Marine Insight - What is Flotsam and Jetsam in Shipping?](http
 -->
 ---
 
+# Ready to build?
+
+- [Reddit - /r/trebuchet](https://www.reddit.com/r/Trebuchet/)
+- [Facebook - Texas Trebuchet](https://www.facebook.com/groups/404259739587758)
+- Your local makerspace
+- [2024 Pumpkin Chunkin Events and Festivals](https://pumpkinpatchesandmore.org/pumpkinchunkin.php)
+
+---
+
 # FAQ
 
 - How big should I make my arm/sling/counterweight/etc.?
   - [Virtual Trebuchet](https://virtualtrebuchet.com/)
+- How many people should I have on my team?
+  - [Two Pizza Team Rule](https://martinfowler.com/bliki/TwoPizzaTeam.html)
 
 ---
 
@@ -418,7 +456,9 @@ _footer: Source: [Marine Insight - What is Flotsam and Jetsam in Shipping?](http
 
 ---
 
-# Extra Reading
+# Slides available at:
 
-- https://classes.engineering.wustl.edu/2009/fall/ese251/presentations/%28AAM_13%29Trebuchet.pdf
-- https://tuhsphysics.ttsd.k12.or.us/Research/IB09/FarrCars/index.htm#source3
+[https://lastcoolnameleft.github.io/how-to-punkin-chunkin/](https://lastcoolnameleft.github.io/how-to-punkin-chunkin/)
+
+![w:400](img/qr-code-preso.png)
+
