@@ -55,26 +55,35 @@ _footer: Source: me
 ![bg right w:70%](img/drake-meme.jpg)
 
 <!--
-_footer: Source: [Know your meme](https://knowyourmeme.com/editorials/collections/15-trebuchet-memes-proving-catapults-are-the-inferior-siege-engine)
+_footer: Source: Myself and [Know your meme](https://knowyourmeme.com/editorials/collections/15-trebuchet-memes-proving-catapults-are-the-inferior-siege-engine)
 -->
 ---
 
-# Terminology
+# Vocabulary
 
 From Wikipedia:
 * [Catapult](https://en.wikipedia.org/wiki/Catapult) - a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants
 * [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet) - uses a rotating arm with a sling attached to the tip to launch a projectile
-* Ergo: a trebuchet is a type of catapult
+* A trebuchet is a type of catapult
   - e.g. All squares are rectangles, but not all rectangles are squares
+
+---
+
+# Vocabulary
+
+- Accuracy - ability to hit the intended target
+- Precision - ability to hit same spot
+
+![bg right:50% w:600](img/accuracy-precision.png)
 
 ---
 
 # History - Punkin Chunkin
 
-- Annual event from 1985 to 2013 in Delaware
+- Annual event since 1985
 - Organized by "World Championship Punkin Chunkin Association (WCPCA)"
 - Cancelled and restarted multiple times due to injuries, legal and logistics issues
-- Last year was in Vinita, Oklahoma
+- 2023 was in Vinita, Oklahoma
 
 ---
 
@@ -390,6 +399,7 @@ _footer: Source: [Maker Badge](https://lastcoolnameleft.github.io/maker-badges/)
 - Markers (carpenter pencils)
 - Workbench (Simpson strong-tie)
 - Marine tools (quick release snap shackle, marine rope)
+- Digital angle finder
 
 ![bg right:50% w:200](img/Aenima.jpg)
 
@@ -437,9 +447,11 @@ _footer: Source: [Marine Insight - What is Flotsam and Jetsam in Shipping?](http
 # Ready to build?
 
 - [Reddit - /r/trebuchet](https://www.reddit.com/r/Trebuchet/)
+- [Reddit - /r/PunkinChunkers](https://www.reddit.com/r/PunkinChunkers/)
 - [Facebook - Texas Trebuchet](https://www.facebook.com/groups/404259739587758)
 - Your local makerspace
 - [2024 Pumpkin Chunkin Events and Festivals](https://pumpkinpatchesandmore.org/pumpkinchunkin.php)
+- Near Dallas? Nov 2nd in Lewisville! (Contact me)
 
 ---
 
