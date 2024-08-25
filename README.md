@@ -95,7 +95,7 @@ From Wikipedia:
 - Last event had 1000+ attendees
 - Local news coverage
 
-[Slingfest in Plano](https://www.youtube.com/watch?v=kacsOd8f__Q)
+[Slingfest in Plano, TX](cache/Slingfest%20in%20Plano%20[kacsOd8f__Q].mp4)
 
 <!--
 _footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
@@ -124,7 +124,7 @@ If you ever built a potato gun or at least had the opportunity to shoot one, Air
 
 ![bg right:50% w:600](img/air-cannon.png)
 
-[University of Delaware video example](https://www.youtube.com/watch?v=GnGkNmgx4ik)
+[University of Delaware video example](cache/Air%20cannon%20launches%20pumpkins%20at%20STAR%20Campus%20[GnGkNmgx4ik].mp4)
 
 <!--
 _footer: Source: [USA Today](https://www.usatoday.com/story/life/tv/2016/11/20/punkin-chunkin-program-canceled-after-accident/94162012/)
@@ -138,7 +138,7 @@ These machines build up centrifugal force in an circular motion and have ways to
 
 ![bg right:50% w:600 h:700](img/centrifugal.png)
 
-[Bad to the Bone video example](https://www.youtube.com/watch?app=desktop&v=CoN7JMa0qyc)
+[Bad to the Bone video example](cache/Punkin%20Chunkin%20-%20Bad%20to%20the%20Bone%20Centrifugal%20[CoN7JMa0qyc].mp4)
 
 <!--
 _footer: Source: [Wired - More Punkin Chunkin Centrifugal Machine](https://www.wired.com/2009/11/more-punkin-chunkin-centrifugal-machine/)
@@ -176,7 +176,7 @@ _footer: Source: [Wikipedia - Trebuchet](https://en.wikipedia.org/wiki/Trebuchet
 
 Modern trebuchets are powered by gravity, and use a counterweight attached to an arm to swing the ballistic attached to a sling around and release at an optimal angle.
 
-[Trebuchet video example](https://www.youtube.com/watch?v=hZxCEkGk6HI)
+[Trebuchet video example](cache/Giant%20trebuchet%20hurls%20a%20piano%20[hZxCEkGk6HI].f605.mp4)
 
 ![bg right:50% w:600](img/trebuchet-diagram.png)
 
@@ -222,6 +222,7 @@ _footer: Source: [Design and Technology Online - Trebuchet](https://wiki.dtonlin
 - Weight is atached to a pivot point on the arm
 - This enabled a better "drop" of the weight
 - Frame on wheels helps ensure more force is delivered to ballistic
+- OG Hurler.  All other designs are modern inventions
 
 <!--
 _footer: Source: [Real World Physics Problems - Catapult physics](https://www.real-world-physics-problems.com/catapult-physics.html)
@@ -233,8 +234,8 @@ _footer: Source: [Real World Physics Problems - Catapult physics](https://www.re
 
 ![bg right:50% w:600 h:700](img/floating-arm-trebuchet.png)
 
-[Example - Slingfest](https://photos.app.goo.gl/f9g5QM2VqQ5A7ZXR7)
-[Example - Slingfest](https://photos.app.goo.gl/zzQ5DJsekhk6tquq6)
+[Example - Slingfest](cache/IMG_2552.MOV)
+[Example - Slingfest](cache/IMG_3916.MOV)
 
 Credit: [LanceMakes @ Instructrables](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
 
@@ -248,8 +249,8 @@ _footer: Source: [Instructables - Floating Arm Trebuchet](https://www.instructab
 
 ![bg right:50% w:600](img/murlin.png)
 
-[Example - Slingfest](https://photos.app.goo.gl/AvXtbn28Q5Wgi4Gs9)
-[Example - Test shot](https://photos.app.goo.gl/56E4Ru8NKCEAUznK7)
+[Example - Slingfest](cache/IMG_5349.MOV)
+[Example - Test shot](cache/IMG_9652.MOV)
 
 <!--
 _footer: Source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.youtube.com/watch?v=XzT6rA56Ydg)
@@ -275,7 +276,7 @@ _footer: Source: [Instructables - Walking Arm Trebuchet](https://www.instructabl
 
 Machines can use any kind of stored energy that can be stored by a single person in two minutes.
 
-[Hamster wheel example](https://www.youtube.com/watch?v=7X4v9lFgppA)
+[Hamster wheel example](cache/Shooda%20Noed%20Beter%201144'%2011⧸5⧸2011%20[7X4v9lFgppA].mp4)
 
 <!--
 _footer: Source: [Snapshots and sojourns - Punkin Chunkin 2013](https://snapshotsandsojourns.com/2013/11/06/punkin-chunkin-2013/)
@@ -291,8 +292,7 @@ _footer: Source: [Snapshots and sojourns - Punkin Chunkin 2013](https://snapshot
 
 ![bg right:50% w:600](img/colossal-thunder.png)
 
-[Example](https://www.youtube.com/watch?v=5WxPoU7sf9E)
-[OK TV](https://www.youtube.com/watch?v=7uc2JgNQN0o)
+[Example](cache/Colossal%20Thunder%20King%20of%20the%20Whippers%20[5WxPoU7sf9E].mp4)
 
 <!--
 _footer: Source: me
@@ -304,16 +304,16 @@ _footer: Source: me
 
 ![bg right:50% w:600](img/james-death-ball.png)
 
-- "Cone of Danger"
+- "Hourglass of Danger"
   - e.g. danger zones of a horse
 - Invest in good firing mechanisms
   - e.g. snap shackles
 - Treat loaded catapult like loaded gun
 - Pre-flight checks
 - AVOID DRY FIRING
-- Checks structrual integrity after each launch
+- Checks structural integrity after each launch
 
-[Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
+[Safety example](cache/GOPR0048.MP4)
 
 <!--
 _footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
@@ -342,20 +342,38 @@ _footer: Source: me at Punkin Chunkin 2023
 
 - Guinness world record: pneumatic cannon at 5,500+ feet
 - Pie-ing a pumpkin (i.e. "pumpkin pie in the sky")
-
 ![bg right:50% w:600](img/range-formula.png)
 
 ---
 
+# Pumpkins
+
+
+![bg vertical w:70%](img/pumpkin-marking.jpg)
+![bg right w:70%](img/pumpkin-cross-section.jpg)
+
+
+* For large chunkers, structural integrity is important
+  *  e.g. Chunk Norris sorted 5000+ pumpkins and brought ~50
+* Popular varities: La Estrella, Calabasa Verde, Fairytale
+* [WCPCA weight ranges rules](cache/World-Championship-Punkin-Chunkin-Rules.pdf):
+  * Adult Classes: 8-10 lbs.
+  * 11-17 Classes: 4-10 lbs.
+  * 10 & Under Classes: 2-4 lbs.
+
+<!--
+_footer: Photo Credit: [Team War Hammer at the 2008 WCPCA](https://www.facebook.com/photo.php?fbid=8342488389129005&set=p.8342488389129005&type=3) + Brooks Kraft
+-->
+---
+
 # Factors in building
 
-- Everything in previous formula
 - Release Angle
+- Rope will stretch
 - Distance of axle to counterweight and sling
 - Length of sling
 - Materials used
-- Rope will stretch
-- ...
+- Weather
 
 ---
 
@@ -384,40 +402,45 @@ _footer: Source: [Maker Badge](https://lastcoolnameleft.github.io/maker-badges/)
 - Knots
   - Knot 3D app
 - Basic math
-  - Find midpoints, calculate angles
+  - [Find midpoints](https://www.youtube.com/watch?v=IyBtAnsP1p4), [calculate angles](https://www.youtube.com/watch?v=PQgcLbeZ8xs)
 - Project planning
   - Kanban board
+- First Aid
 
 ---
 
 # Tools & Materials
 
 - Saws (hand, circular, compound miter, table)
+- Speed square
+- Digital angle finder
 - Levels
 - Clamps (SO MANY CLAMPS)
 - Drills (standard, impact)
 - Markers (carpenter pencils)
 - Workbench (Simpson strong-tie)
 - Marine tools (quick release snap shackle, marine rope)
-- Digital angle finder
+- Local Makerspace
 
-![bg right:50% w:200](img/Aenima.jpg)
+![bg right:30% w:200](img/Aenima.jpg)
 
 <!--
 _footer: Source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
 -->
+
 
 ---
 
 # Lumber
 
 - Get started with Common boards (e.g. pine) from Home Depot / Lowes
-  - Don't get treated wood (arsenic)
-- Listed in depth and width (e.g. 1x3, 2x4, 1x8, etc.)
-- Board is cut THEN planed (to make straight-ish)
-  - e.g. 2x4 is NOT 2"x4".  Actually about 1.5" x 3.5"
+  - Don't get treated wood (nasty chemicals)
+- Listed in depth and width (e.g. 1x3, 2x4, etc.)
+- Board is cut THEN planed (straight-ish)
+  - e.g. 2x4 is NOT 2"x4".  
+    - Actually about 1.5" x 3.5"
   - e.g. 1x4 is .75" x 3.5"
-- Pilot holes are your friend
+- [Pilot holes](https://en.wikipedia.org/wiki/Pilot_hole) are your friend
 
 ![bg right:40% w:400](img/lumber-party.png)
 
@@ -435,7 +458,7 @@ Think in terms of a constructing a vessel and label pieces accordingly
 - Foreward = where the ballistic is directed towards
 - Stern / Aft = backside, opposite of foreward
 - Port = When facing forward, on the left
-- Starbord = When facing forward, on the right
+- Starboard = When facing forward, on the right
 
 ![bg right:50% w:600](img/Port-Starboard.png.webp)
 
@@ -461,6 +484,10 @@ _footer: Source: [Marine Insight - What is Flotsam and Jetsam in Shipping?](http
   - [Virtual Trebuchet](https://virtualtrebuchet.com/)
 - How many people should I have on my team?
   - [Two Pizza Team Rule](https://martinfowler.com/bliki/TwoPizzaTeam.html)
+- Can my ballistic be too light?
+  - Yup!  Foam doesn't launch as nicely as tennis ball
+- Can my ballistic be too heavy?
+  - Depends on your objective...
 
 ---
 
