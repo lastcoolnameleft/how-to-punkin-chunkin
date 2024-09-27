@@ -310,7 +310,7 @@ _footer: Source: me
   - e.g. snap shackles
 - Treat loaded catapult like loaded gun
 - Pre-flight checks
-- AVOID DRY FIRING
+- AVOID DRY FIRING (Like a bow and arrow)
 - Checks structrual integrity after each launch
 
 [Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
