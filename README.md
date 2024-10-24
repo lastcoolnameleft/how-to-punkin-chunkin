@@ -136,6 +136,10 @@ _footer: Photo source: [USA Today](https://www.usatoday.com/story/life/tv/2016/1
 
 These machines build up centrifugal force in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
 
+These machines build up inertia in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
+
+NOTE: Centrifugal force is a fictitious force and is actually an "inertial force".
+
 ![bg right:50% w:600 h:700](img/centrifugal.png)
 
 [Bad to the Bone video example](https://www.youtube.com/watch?app=desktop&v=CoN7JMa0qyc)
