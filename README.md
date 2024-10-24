@@ -95,10 +95,10 @@ From Wikipedia:
 - Last event had 1000+ attendees
 - Local news coverage
 
-[Slingfest in Plano](https://www.youtube.com/watch?v=kacsOd8f__Q)
+[Slingfest in Plano, TX](https://www.youtube.com/watch?v=kacsOd8f__Q)
 
 <!--
-_footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
+_footer: Photo source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
 -->
 
 ---
@@ -127,7 +127,7 @@ If you ever built a potato gun or at least had the opportunity to shoot one, Air
 [University of Delaware video example](https://www.youtube.com/watch?v=GnGkNmgx4ik)
 
 <!--
-_footer: Source: [USA Today](https://www.usatoday.com/story/life/tv/2016/11/20/punkin-chunkin-program-canceled-after-accident/94162012/)
+_footer: Photo source: [USA Today](https://www.usatoday.com/story/life/tv/2016/11/20/punkin-chunkin-program-canceled-after-accident/94162012/)
 -->
 
 ---
@@ -141,7 +141,7 @@ These machines build up centrifugal force in an circular motion and have ways to
 [Bad to the Bone video example](https://www.youtube.com/watch?app=desktop&v=CoN7JMa0qyc)
 
 <!--
-_footer: Source: [Wired - More Punkin Chunkin Centrifugal Machine](https://www.wired.com/2009/11/more-punkin-chunkin-centrifugal-machine/)
+_footer: Photo source: [Wired - More Punkin Chunkin Centrifugal Machine](https://www.wired.com/2009/11/more-punkin-chunkin-centrifugal-machine/)
 -->
 
 ---
@@ -153,7 +153,7 @@ A Torsion machine is any device that uses twisted rope as its primary source of 
 ![bg right:50% w:600](img/onager.png)
 
 <!--
-_footer: Source: [Storm the Castle - A Timeline of Development of the Catapult](https://www.stormthecastle.com/catapult/development-timeline-of-the-catapult.htm)
+_footer: Photo source: [Storm the Castle - A Timeline of Development of the Catapult](https://www.stormthecastle.com/catapult/development-timeline-of-the-catapult.htm)
 -->
 
 ---
@@ -167,7 +167,7 @@ Earliest ones seen in China ~4th century BC (powered by men on ropes: traction t
 ![bg right:50% w:600](img/trebuchet.png)
 
 <!--
-_footer: Source: [Wikipedia - Trebuchet](https://en.wikipedia.org/wiki/Trebuchet)
+_footer: Photo source: [Wikipedia - Trebuchet](https://en.wikipedia.org/wiki/Trebuchet)
 -->
 
 ---
@@ -181,7 +181,7 @@ Modern trebuchets are powered by gravity, and use a counterweight attached to an
 ![bg right:50% w:600](img/trebuchet-diagram.png)
 
 <!--
-_footer: Source: [Mikora - Diagram Of A Trebuchet](https://www.mikrora.com/diagram-of-a-trebuchet/)
+_footer: Photo source: [Mikora - Diagram Of A Trebuchet](https://www.mikrora.com/diagram-of-a-trebuchet/)
 -->
 
 ---
@@ -210,7 +210,7 @@ _footer: NOTE: Listed in order of difficulty
 - Weight drops in an arc
 
 <!--
-_footer: Source: [Design and Technology Online - Trebuchet](https://wiki.dtonline.org/index.php/Trebuchet)
+_footer: Photo source: [Design and Technology Online - Trebuchet](https://wiki.dtonline.org/index.php/Trebuchet)
 -->
 
 ---
@@ -224,7 +224,7 @@ _footer: Source: [Design and Technology Online - Trebuchet](https://wiki.dtonlin
 - Frame on wheels helps ensure more force is delivered to ballistic
 
 <!--
-_footer: Source: [Real World Physics Problems - Catapult physics](https://www.real-world-physics-problems.com/catapult-physics.html)
+_footer: Photo source: [Real World Physics Problems - Catapult physics](https://www.real-world-physics-problems.com/catapult-physics.html)
 -->
 
 ---
@@ -239,7 +239,7 @@ _footer: Source: [Real World Physics Problems - Catapult physics](https://www.re
 Credit: [LanceMakes @ Instructrables](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
 
 <!--
-_footer: Source: [Instructables - Floating Arm Trebuchet](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
+_footer: Photo source: [Instructables - Floating Arm Trebuchet](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
 -->
 
 ---
@@ -252,7 +252,7 @@ _footer: Source: [Instructables - Floating Arm Trebuchet](https://www.instructab
 [Example - Test shot](https://photos.app.goo.gl/56E4Ru8NKCEAUznK7)
 
 <!--
-_footer: Source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.youtube.com/watch?v=XzT6rA56Ydg)
+_footer: Photo source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.youtube.com/watch?v=XzT6rA56Ydg)
 -->
 
 ---
@@ -264,7 +264,7 @@ _footer: Source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.youtube
 A fun, simple, weekend project to toss tennis balls.
 
 <!--
-_footer: Source: [Instructables - Walking Arm Trebuchet](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
+_footer: Photo source: [Instructables - Walking Arm Trebuchet](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
 -->
 
 ---
@@ -278,7 +278,7 @@ Machines can use any kind of stored energy that can be stored by a single person
 [Hamster wheel example](https://www.youtube.com/watch?v=7X4v9lFgppA)
 
 <!--
-_footer: Source: [Snapshots and sojourns - Punkin Chunkin 2013](https://snapshotsandsojourns.com/2013/11/06/punkin-chunkin-2013/)
+_footer: Photo source: [Snapshots and sojourns - Punkin Chunkin 2013](https://snapshotsandsojourns.com/2013/11/06/punkin-chunkin-2013/)
 -->
 
 ---
@@ -295,7 +295,7 @@ _footer: Source: [Snapshots and sojourns - Punkin Chunkin 2013](https://snapshot
 [OK TV](https://www.youtube.com/watch?v=7uc2JgNQN0o)
 
 <!--
-_footer: Source: me
+_footer: Photo source: me
 -->
 
 ---
@@ -316,7 +316,7 @@ _footer: Source: me
 [Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
 
 <!--
-_footer: Source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
+_footer: Photo source: [Plano Magazine - 5th Annual SlingFest](https://planomagazine.com/5th-annual-slingfest/)
 -->
 
 ---
@@ -334,7 +334,7 @@ Example:
 
 
 <!--
-_footer: Source: me at Punkin Chunkin 2023
+_footer: Photo source: me at Punkin Chunkin 2023
 -->
 ---
 
@@ -373,7 +373,7 @@ _footer: Source: me at Punkin Chunkin 2023
 ![bg right:30% w:300](img/trebuchet.svg)
 
 <!--
-_footer: Source: [Maker Badge](https://lastcoolnameleft.github.io/maker-badges/). After you build your first trebuchet, get your badge here!
+_footer: Photo source: [Maker Badge](https://lastcoolnameleft.github.io/maker-badges/). After you build your first trebuchet, get your badge here!
 -->
 ---
 
@@ -404,7 +404,7 @@ _footer: Source: [Maker Badge](https://lastcoolnameleft.github.io/maker-badges/)
 ![bg right:50% w:200](img/Aenima.jpg)
 
 <!--
-_footer: Source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
+_footer: Photo source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
 -->
 
 ---
@@ -422,7 +422,7 @@ _footer: Source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
 ![bg right:40% w:400](img/lumber-party.png)
 
 <!--
-_footer: Source: [Cyanide & Happiness](https://explosm.net/)
+_footer: Photo source: [Cyanide & Happiness](https://explosm.net/)
 -->
 
 ---
@@ -440,7 +440,7 @@ Think in terms of a constructing a vessel and label pieces accordingly
 ![bg right:50% w:600](img/Port-Starboard.png.webp)
 
 <!--
-_footer: Source: [Marine Insight - What is Flotsam and Jetsam in Shipping?](https://www.marineinsight.com/marine-navigation/nautical-terms-meaning-of-flotsam-and-jetsam-in-shipping/)
+_footer: Photo source: [Marine Insight - What is Flotsam and Jetsam in Shipping?](https://www.marineinsight.com/marine-navigation/nautical-terms-meaning-of-flotsam-and-jetsam-in-shipping/)
 -->
 ---
 
