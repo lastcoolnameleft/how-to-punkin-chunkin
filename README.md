@@ -134,8 +134,6 @@ _footer: Photo source: [USA Today](https://www.usatoday.com/story/life/tv/2016/1
 
 # Centrifugal
 
-These machines build up centrifugal force in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
-
 These machines build up inertia in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
 
 NOTE: Centrifugal force is a fictitious force and is actually an "inertial force".
@@ -226,6 +224,7 @@ _footer: Photo source: [Design and Technology Online - Trebuchet](https://wiki.d
 - Weight is atached to a pivot point on the arm
 - This enabled a better "drop" of the weight
 - Frame on wheels helps ensure more force is delivered to ballistic
+- OG Hurler.  All other designs are modern inventions
 
 <!--
 _footer: Photo source: [Real World Physics Problems - Catapult physics](https://www.real-world-physics-problems.com/catapult-physics.html)
@@ -308,14 +307,14 @@ _footer: Photo source: me
 
 ![bg right:50% w:600](img/james-death-ball.png)
 
-- "Cone of Danger"
+- "Hourglass of Danger"
   - e.g. danger zones of a horse
 - Invest in good firing mechanisms
   - e.g. snap shackles
-- Treat loaded catapult like loaded gun
+- Treat loaded like loaded gun
 - Pre-flight checks
 - AVOID DRY FIRING (Like a bow and arrow)
-- Checks structrual integrity after each launch
+- Check structrual integrity after each launch
 
 [Safety example](https://photos.app.goo.gl/e4ge751RjLEJye6G9)
 
@@ -351,14 +350,34 @@ _footer: Photo source: me at Punkin Chunkin 2023
 
 ---
 
+# Pumpkins
+
+![bg vertical w:70%](img/pumpkin-marking.jpg)
+![bg right w:70%](img/pumpkin-cross-section.jpg)
+
+
+- For large chunkers, structural integrity is important
+  -  e.g. Chunk Norris sorted 5000+ pumpkins and brought ~50
+- Popular varities: La Estrella, Calabasa Verde, Fairytale
+- [WCPCA weight ranges rules](cache/World-Championship-Punkin-Chunkin-Rules.pdf):
+  - Adult Classes: 8-10 lbs.
+  - 11-17 Classes: 4-10 lbs.
+  - 10 & Under Classes: 2-4 lbs.
+
+<!--
+_footer: Photo source: [Team War Hammer at the 2008 WCPCA](https://www.facebook.com/photo.php?fbid=8342488389129005&set=p.8342488389129005&type=3) + Brooks Kraft
+-->
+
+---
+
 # Factors in building
 
-- Everything in previous formula
 - Release Angle
 - Distance of axle to counterweight and sling
 - Length of sling
 - Materials used
 - Rope will stretch
+- Weather
 - ...
 
 ---
@@ -388,15 +407,17 @@ _footer: Photo source: [Maker Badge](https://lastcoolnameleft.github.io/maker-ba
 - Knots
   - Knot 3D app
 - Basic math
-  - Find midpoints, calculate angles
+  - [Find midpoints](https://www.youtube.com/watch?v=IyBtAnsP1p4), [calculate angles](https://www.youtube.com/watch?v=PQgcLbeZ8xs)
 - Project planning
   - Kanban board
+- First Aid
 
 ---
 
 # Tools & Materials
 
 - Saws (hand, circular, compound miter, table)
+- Speed square
 - Levels
 - Clamps (SO MANY CLAMPS)
 - Drills (standard, impact)
@@ -404,8 +425,9 @@ _footer: Photo source: [Maker Badge](https://lastcoolnameleft.github.io/maker-ba
 - Workbench (Simpson strong-tie)
 - Marine tools (quick release snap shackle, marine rope)
 - Digital angle finder
+- Local Makerspace
 
-![bg right:50% w:200](img/Aenima.jpg)
+![bg right:30% w:200](img/Aenima.jpg)
 
 <!--
 _footer: Photo source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86nima)
@@ -421,7 +443,7 @@ _footer: Photo source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86
 - Board is cut THEN planed (to make straight-ish)
   - e.g. 2x4 is NOT 2"x4".  Actually about 1.5" x 3.5"
   - e.g. 1x4 is .75" x 3.5"
-- Pilot holes are your friend
+- [Pilot holes](https://en.wikipedia.org/wiki/Pilot_hole) are your friend
 
 ![bg right:40% w:400](img/lumber-party.png)
 
@@ -439,7 +461,7 @@ Think in terms of a constructing a vessel and label pieces accordingly
 - Foreward = where the ballistic is directed towards
 - Stern / Aft = backside, opposite of foreward
 - Port = When facing forward, on the left
-- Starbord = When facing forward, on the right
+- Starboard = When facing forward, on the right
 
 ![bg right:50% w:600](img/Port-Starboard.png.webp)
 
@@ -465,6 +487,10 @@ _footer: Photo source: [Marine Insight - What is Flotsam and Jetsam in Shipping?
   - [Virtual Trebuchet](https://virtualtrebuchet.com/)
 - How many people should I have on my team?
   - [Two Pizza Team Rule](https://martinfowler.com/bliki/TwoPizzaTeam.html)
+- Can my ballistic be too light?
+  - Yup!  Foam doesn't launch as nicely as tennis ball
+- Can my ballistic be too heavy?
+  - Depends on your objective...
 
 ---
 
