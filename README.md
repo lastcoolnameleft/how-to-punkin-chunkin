@@ -134,7 +134,9 @@ _footer: Photo source: [USA Today](https://www.usatoday.com/story/life/tv/2016/1
 
 # Centrifugal
 
-These machines build up centrifugal force in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
+These machines build up inertia in an circular motion and have ways to release the pumpkin at the optimal trajectory for an outstanding distance shot.
+
+NOTE: Centrifugal force is a fictitious force and is actually an "inertial force".
 
 ![bg right:50% w:600 h:700](img/centrifugal.png)
 
@@ -198,6 +200,7 @@ _footer: NOTE: Listed in order of difficulty
 - Floating Arm
 - MURLIN
 - Human powered
+- Whipper
 - And many more
 
 ---
@@ -312,8 +315,8 @@ _footer: Photo source: me at Punkin Chunkin
   - e.g. snap shackles
 - Treat loaded like loaded gun
 - Pre-flight checks
-- AVOID DRY FIRING
-- Checks structural integrity after each launch
+- AVOID DRY FIRING (Like a bow and arrow)
+- Check structrual integrity after each launch
 
 [Safety example - racking](cache/IMG_3911.MP4)
 [Safety example - misfire](cache/GOPR0048.MP4)
