@@ -476,8 +476,8 @@ _footer: Photo source: [Marine Insight - What is Flotsam and Jetsam in Shipping?
 - [Reddit - /r/PunkinChunkers](https://www.reddit.com/r/PunkinChunkers/)
 - [Facebook - Texas Trebuchet](https://www.facebook.com/groups/404259739587758)
 - Your local makerspace
-- [2024 Pumpkin Chunkin Events and Festivals](https://pumpkinpatchesandmore.org/pumpkinchunkin.php)
-- Near Dallas? Nov 2nd in Lewisville! (Contact me)
+- [Pumpkin Chunkin Events and Festivals](https://pumpkinpatchesandmore.org/pumpkinchunkin.php)
+- Nov 29th in Lewisville!
 
 ---
 
