@@ -267,7 +267,7 @@ _footer: Photo source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.y
 A fun, simple, weekend project to toss tennis balls.
 
 <!--
-_footer: Photo source: [Instructables - Walking Arm Trebuchet](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
+_footer: Source: [Instructables - Walking Arm Trebuchet](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
 -->
 
 ---
@@ -298,7 +298,7 @@ _footer: Photo source: [Snapshots and sojourns - Punkin Chunkin 2013](https://sn
 [OK TV](https://www.youtube.com/watch?v=7uc2JgNQN0o)
 
 <!--
-_footer: Photo source: me
+_footer: Photo source: me at Punkin Chunkin
 -->
 
 ---
@@ -373,12 +373,11 @@ _footer: Photo source: [Team War Hammer at the 2008 WCPCA](https://www.facebook.
 # Factors in building
 
 - Release Angle
+- Rope will stretch
 - Distance of axle to counterweight and sling
 - Length of sling
 - Materials used
-- Rope will stretch
 - Weather
-- ...
 
 ---
 
@@ -418,6 +417,7 @@ _footer: Photo source: [Maker Badge](https://lastcoolnameleft.github.io/maker-ba
 
 - Saws (hand, circular, compound miter, table)
 - Speed square
+- Digital angle finder
 - Levels
 - Clamps (SO MANY CLAMPS)
 - Drills (standard, impact)
@@ -438,10 +438,11 @@ _footer: Photo source: [Wikipedia - Ænima](https://en.wikipedia.org/wiki/%C3%86
 # Lumber
 
 - Get started with Common boards (e.g. pine) from Home Depot / Lowes
-  - Don't get treated wood (arsenic)
-- Listed in depth and width (e.g. 1x3, 2x4, 1x8, etc.)
-- Board is cut THEN planed (to make straight-ish)
-  - e.g. 2x4 is NOT 2"x4".  Actually about 1.5" x 3.5"
+  - Don't get treated wood (nasty chemicals)
+- Listed in depth and width (e.g. 1x3, 2x4, etc.)
+- Board is cut THEN planed (straight-ish)
+  - e.g. 2x4 is NOT 2"x4".
+    - Actually about 1.5" x 3.5"
   - e.g. 1x4 is .75" x 3.5"
 - [Pilot holes](https://en.wikipedia.org/wiki/Pilot_hole) are your friend
 
