@@ -225,6 +225,7 @@ _footer: Photo source: [Design and Technology Online - Trebuchet](https://wiki.d
 - This enabled a better "drop" of the weight
 - Frame on wheels helps ensure more force is delivered to ballistic
 - OG Hurler.  All other designs are modern inventions
+- [Hinged Counterweight Build Plans](https://www.instructables.com/How-to-Build-an-Awesome-Trebuchet/)
 
 <!--
 _footer: Photo source: [Real World Physics Problems - Catapult physics](https://www.real-world-physics-problems.com/catapult-physics.html)
@@ -239,7 +240,9 @@ _footer: Photo source: [Real World Physics Problems - Catapult physics](https://
 [Example - Slingfest](https://photos.app.goo.gl/f9g5QM2VqQ5A7ZXR7)
 [Example - Slingfest](https://photos.app.goo.gl/zzQ5DJsekhk6tquq6)
 
-Credit: [LanceMakes @ Instructrables](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
+[Floating Arm Build Plans](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
+
+Credit: [LanceMakes @ Instructrables](https://www.stem-inventions.com/)
 
 <!--
 _footer: Photo source: [Instructables - Floating Arm Trebuchet](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
@@ -253,6 +256,7 @@ _footer: Photo source: [Instructables - Floating Arm Trebuchet](https://www.inst
 
 [Example - Slingfest](https://photos.app.goo.gl/AvXtbn28Q5Wgi4Gs9)
 [Example - Test shot](https://photos.app.goo.gl/56E4Ru8NKCEAUznK7)
+[MURLIN Build Plans](https://www.instructables.com/MURLIN-Trebuchet/)
 
 <!--
 _footer: Photo source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.youtube.com/watch?v=XzT6rA56Ydg)
@@ -265,6 +269,8 @@ _footer: Photo source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.y
 ![bg right:50% w:500](img/walking-arm-flinger-anatomy.webp)
 
 A fun, simple, weekend project to toss tennis balls.
+
+[Walking Arm Build Plans](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
 
 <!--
 _footer: Source: [Instructables - Walking Arm Trebuchet](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
