@@ -237,10 +237,9 @@ _footer: Photo source: [Real World Physics Problems - Catapult physics](https://
 
 ![bg right:50% w:600 h:700](img/floating-arm-trebuchet.png)
 
-[Example - Slingfest](https://photos.app.goo.gl/f9g5QM2VqQ5A7ZXR7)
-[Example - Slingfest](https://photos.app.goo.gl/zzQ5DJsekhk6tquq6)
-
-[Floating Arm Build Plans](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
+- [Example - Slingfest](https://photos.app.goo.gl/f9g5QM2VqQ5A7ZXR7)
+- [Example - Slingfest](https://photos.app.goo.gl/zzQ5DJsekhk6tquq6)
+- [Floating Arm Build Plans](https://www.instructables.com/The-Floating-Arm-Trebuchet/)
 
 Credit: [LanceMakes @ Instructrables](https://www.stem-inventions.com/)
 
@@ -254,9 +253,9 @@ _footer: Photo source: [Instructables - Floating Arm Trebuchet](https://www.inst
 
 ![bg right:50% w:600](img/murlin.png)
 
-[Example - Slingfest](https://photos.app.goo.gl/AvXtbn28Q5Wgi4Gs9)
-[Example - Test shot](https://photos.app.goo.gl/56E4Ru8NKCEAUznK7)
-[MURLIN Build Plans](https://www.instructables.com/MURLIN-Trebuchet/)
+- [Example - Slingfest](https://photos.app.goo.gl/AvXtbn28Q5Wgi4Gs9)
+- [Example - Test shot](https://photos.app.goo.gl/56E4Ru8NKCEAUznK7)
+- [MURLIN Build Plans](https://www.instructables.com/MURLIN-Trebuchet/)
 
 <!--
 _footer: Photo source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.youtube.com/watch?v=XzT6rA56Ydg)
@@ -268,9 +267,8 @@ _footer: Photo source: [Youtube - Popsicle Stick Murlin Trebuchet](https://www.y
 
 ![bg right:50% w:500](img/walking-arm-flinger-anatomy.webp)
 
-A fun, simple, weekend project to toss tennis balls.
-
-[Walking Arm Build Plans](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
+- A fun, simple, weekend project to toss tennis balls.
+- [Walking Arm Build Plans](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
 
 <!--
 _footer: Source: [Instructables - Walking Arm Trebuchet](https://www.instructables.com/Worlds-Simplest-and-Newest-Trebuchet-Walking-Arm-T/)
